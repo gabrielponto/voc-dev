@@ -1,0 +1,1 @@
+This is a shared folder in vagrant. Clone voc repository here.
